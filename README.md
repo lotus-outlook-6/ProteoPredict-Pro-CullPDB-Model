@@ -1,4 +1,4 @@
-# ProteoPredict Pro: CullPDB Protein Secondary Structure Prediction
+# ProteoPredict Pro: CullPDB Protein Secondary Structure Prediction-
 
 > A deep learning model for predicting protein secondary structure using CNN + BiLSTM architecture trained on real PDB protein sequences.
 
